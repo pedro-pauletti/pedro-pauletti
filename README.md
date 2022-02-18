@@ -12,7 +12,7 @@
  ### Currently learning 
   - Machine Learning
   - Computer Vision
-  - Arduino
+  - VR and AR 
   - IoT
   
  ### Main Languages
