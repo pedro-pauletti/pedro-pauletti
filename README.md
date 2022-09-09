@@ -1,33 +1,31 @@
-## Pedro Pauletti
-### 🇧🇷 Estudante Engenharia da Computação - 🇺🇸 Studying Computer Engineer
+<h1 align="center">Hi, I'm Pedro Pauletti</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” - Alan Turing
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-pauletti&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-pauletti" /> </p>
 
- <div>
-  <a href="https://pedro-pauletti.github.io/pedropauletti.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-pauletti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-pauletti&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedro-pauletti" alt="pedro-pauletti" /></a> </p>
 
- ### Currently learning 
-  - Machine Learning
-  - Computer Vision
-  - VR and AR 
-  - IoT
-  
- ### Main Languages
+<p align="left"> <a href="https://twitter.com/pedropauletti" target="blank"><img src="https://img.shields.io/twitter/follow/pedropauletti?logo=twitter&style=for-the-badge" alt="pedropauletti" /></a> </p>
 
-<div style="display: inline_block">
-  <img align="center" alt="python" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg">
-  <img align="center" alt="c" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
-  <img align="center" alt="c++" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="java" height="60" width="60" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg">
-  
-</div>
-  
- ### Projects 
-  
- ### Contact me
-  <a href="https://instagram.com/pedropauletti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulettipedrohenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-ton-pauletti-5648391a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, VR/AR and IoT**
+
+- 👨‍💻 All of my projects are available at [pedropauletti.com.br](pedropauletti.com.br)
+
+- 📫 How to reach me **pedroton@live.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pedropauletti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedropauletti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedropauletti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedropauletti" height="30" width="40" /></a>
+<a href="https://instagram.com/pedropauletti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedropauletti" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-pauletti&show_icons=true&locale=en&layout=compact" alt="pedro-pauletti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-pauletti&show_icons=true&locale=en" alt="pedro-pauletti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-pauletti&" alt="pedro-pauletti" /></p>
+
