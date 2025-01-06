@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Pedro Pauletti</h1>
-<h3 align="center">Computer Engineering</h3>
+<h3 align="center">Cloud Solution Architect at Microsoft | Computer Engineer</h3>
+
+<h5 align="center">Computer Engineer, Master's student in Computer Science, researcher and enthusiast in the areas of Data Science, Data engineering, Machine Learning and Cloud Computing, currently working as a Cloud Solution Architect at Microsoft.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-pauletti&label=Profile%20views&color=0e75b6&style=flat" alt="pedro-pauletti" /> </p>
 
